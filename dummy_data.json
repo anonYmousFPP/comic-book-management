@@ -1,0 +1,502 @@
+[
+    {
+        "book_name": "Book Title 1",
+        "author_name": "Author 1",
+        "year_of_publication": "2021",
+        "price": 12,
+        "discount": "10%",
+        "number_of_pages": 250,
+        "condition": "new",
+        "description": "This is a description for Book Title 1."
+    },
+    {
+        "book_name": "Book Title 2",
+        "author_name": "Author 2",
+        "year_of_publication": "2020",
+        "price": 25,
+        "discount": "15%",
+        "number_of_pages": 300,
+        "condition": "used",
+        "description": "This is a description for Book Title 2."
+    },
+    {
+        "book_name": "Book Title 3",
+        "author_name": "Author 3",
+        "year_of_publication": "2022",
+        "price": 8,
+        "discount": "5%",
+        "number_of_pages": 150,
+        "condition": "new",
+        "description": "This is a description for Book Title 3."
+    },
+    {
+        "book_name": "Book Title 4",
+        "author_name": "Author 4",
+        "year_of_publication": "2023",
+        "price": 18,
+        "discount": "20%",
+        "number_of_pages": 220,
+        "condition": "used",
+        "description": "This is a description for Book Title 4."
+    },
+    {
+        "book_name": "Book Title 5",
+        "author_name": "Author 5",
+        "year_of_publication": "2021",
+        "price": 30,
+        "discount": "10%",
+        "number_of_pages": 280,
+        "condition": "new",
+        "description": "This is a description for Book Title 5."
+    },
+    {
+        "book_name": "Book Title 6",
+        "author_name": "Author 6",
+        "year_of_publication": "2020",
+        "price": 22,
+        "discount": "25%",
+        "number_of_pages": 340,
+        "condition": "used",
+        "description": "This is a description for Book Title 6."
+    },
+    {
+        "book_name": "Book Title 7",
+        "author_name": "Author 7",
+        "year_of_publication": "2022",
+        "price": 14,
+        "discount": "15%",
+        "number_of_pages": 180,
+        "condition": "new",
+        "description": "This is a description for Book Title 7."
+    },
+    {
+        "book_name": "Book Title 8",
+        "author_name": "Author 8",
+        "year_of_publication": "2023",
+        "price": 27,
+        "discount": "30%",
+        "number_of_pages": 230,
+        "condition": "used",
+        "description": "This is a description for Book Title 8."
+    },
+    {
+        "book_name": "Book Title 9",
+        "author_name": "Author 9",
+        "year_of_publication": "2021",
+        "price": 11,
+        "discount": "10%",
+        "number_of_pages": 160,
+        "condition": "new",
+        "description": "This is a description for Book Title 9."
+    },
+    {
+        "book_name": "Book Title 10",
+        "author_name": "Author 10",
+        "year_of_publication": "2020",
+        "price": 29,
+        "discount": "15%",
+        "number_of_pages": 320,
+        "condition": "used",
+        "description": "This is a description for Book Title 10."
+    },
+    {
+        "book_name": "Book Title 11",
+        "author_name": "Author 11",
+        "year_of_publication": "2022",
+        "price": 17,
+        "discount": "20%",
+        "number_of_pages": 210,
+        "condition": "new",
+        "description": "This is a description for Book Title 11."
+    },
+    {
+        "book_name": "Book Title 12",
+        "author_name": "Author 12",
+        "year_of_publication": "2023",
+        "price": 20,
+        "discount": "25%",
+        "number_of_pages": 300,
+        "condition": "used",
+        "description": "This is a description for Book Title 12."
+    },
+    {
+        "book_name": "Book Title 13",
+        "author_name": "Author 13",
+        "year_of_publication": "2021",
+        "price": 13,
+        "discount": "10%",
+        "number_of_pages": 240,
+        "condition": "new",
+        "description": "This is a description for Book Title 13."
+    },
+    {
+        "book_name": "Book Title 14",
+        "author_name": "Author 14",
+        "year_of_publication": "2020",
+        "price": 26,
+        "discount": "15%",
+        "number_of_pages": 300,
+        "condition": "used",
+        "description": "This is a description for Book Title 14."
+    },
+    {
+        "book_name": "Book Title 15",
+        "author_name": "Author 15",
+        "year_of_publication": "2022",
+        "price": 15,
+        "discount": "20%",
+        "number_of_pages": 200,
+        "condition": "new",
+        "description": "This is a description for Book Title 15."
+    },
+    {
+        "book_name": "Book Title 16",
+        "author_name": "Author 16",
+        "year_of_publication": "2023",
+        "price": 24,
+        "discount": "25%",
+        "number_of_pages": 180,
+        "condition": "used",
+        "description": "This is a description for Book Title 16."
+    },
+    {
+        "book_name": "Book Title 17",
+        "author_name": "Author 17",
+        "year_of_publication": "2021",
+        "price": 10,
+        "discount": "10%",
+        "number_of_pages": 150,
+        "condition": "new",
+        "description": "This is a description for Book Title 17."
+    },
+    {
+        "book_name": "Book Title 18",
+        "author_name": "Author 18",
+        "year_of_publication": "2020",
+        "price": 28,
+        "discount": "15%",
+        "number_of_pages": 350,
+        "condition": "used",
+        "description": "This is a description for Book Title 18."
+    },
+    {
+        "book_name": "Book Title 19",
+        "author_name": "Author 19",
+        "year_of_publication": "2022",
+        "price": 19,
+        "discount": "20%",
+        "number_of_pages": 280,
+        "condition": "new",
+        "description": "This is a description for Book Title 19."
+    },
+    {
+        "book_name": "Book Title 20",
+        "author_name": "Author 20",
+        "year_of_publication": "2023",
+        "price": 23,
+        "discount": "25%",
+        "number_of_pages": 220,
+        "condition": "used",
+        "description": "This is a description for Book Title 20."
+    },
+    {
+        "book_name": "Book Title 21",
+        "author_name": "Author 21",
+        "year_of_publication": "2021",
+        "price": 14,
+        "discount": "10%",
+        "number_of_pages": 240,
+        "condition": "new",
+        "description": "This is a description for Book Title 21."
+    },
+    {
+        "book_name": "Book Title 22",
+        "author_name": "Author 22",
+        "year_of_publication": "2020",
+        "price": 27,
+        "discount": "15%",
+        "number_of_pages": 320,
+        "condition": "used",
+        "description": "This is a description for Book Title 22."
+    },
+    {
+        "book_name": "Book Title 23",
+        "author_name": "Author 23",
+        "year_of_publication": "2022",
+        "price": 11,
+        "discount": "20%",
+        "number_of_pages": 260,
+        "condition": "new",
+        "description": "This is a description for Book Title 23."
+    },
+    {
+        "book_name": "Book Title 24",
+        "author_name": "Author 24",
+        "year_of_publication": "2023",
+        "price": 30,
+        "discount": "25%",
+        "number_of_pages": 200,
+        "condition": "used",
+        "description": "This is a description for Book Title 24."
+    },
+    {
+        "book_name": "Book Title 25",
+        "author_name": "Author 25",
+        "year_of_publication": "2021",
+        "price": 16,
+        "discount": "10%",
+        "number_of_pages": 300,
+        "condition": "new",
+        "description": "This is a description for Book Title 25."
+    },
+    {
+        "book_name": "Book Title 26",
+        "author_name": "Author 26",
+        "year_of_publication": "2020",
+        "price": 22,
+        "discount": "15%",
+        "number_of_pages": 350,
+        "condition": "used",
+        "description": "This is a description for Book Title 26."
+    },
+    {
+        "book_name": "Book Title 27",
+        "author_name": "Author 27",
+        "year_of_publication": "2022",
+        "price": 18,
+        "discount": "20%",
+        "number_of_pages": 280,
+        "condition": "new",
+        "description": "This is a description for Book Title 27."
+    },
+    {
+        "book_name": "Book Title 28",
+        "author_name": "Author 28",
+        "year_of_publication": "2023",
+        "price": 25,
+        "discount": "25%",
+        "number_of_pages": 220,
+        "condition": "used",
+        "description": "This is a description for Book Title 28."
+    },
+    {
+        "book_name": "Book Title 29",
+        "author_name": "Author 29",
+        "year_of_publication": "2021",
+        "price": 9,
+        "discount": "10%",
+        "number_of_pages": 260,
+        "condition": "new",
+        "description": "This is a description for Book Title 29."
+    },
+    {
+        "book_name": "Book Title 30",
+        "author_name": "Author 30",
+        "year_of_publication": "2020",
+        "price": 29,
+        "discount": "15%",
+        "number_of_pages": 320,
+        "condition": "used",
+        "description": "This is a description for Book Title 30."
+    },
+    {
+        "book_name": "Book Title 31",
+        "author_name": "Author 31",
+        "year_of_publication": "2022",
+        "price": 21,
+        "discount": "20%",
+        "number_of_pages": 200,
+        "condition": "new",
+        "description": "This is a description for Book Title 31."
+    },
+    {
+        "book_name": "Book Title 32",
+        "author_name": "Author 32",
+        "year_of_publication": "2023",
+        "price": 30,
+        "discount": "25%",
+        "number_of_pages": 210,
+        "condition": "used",
+        "description": "This is a description for Book Title 32."
+    },
+    {
+        "book_name": "Book Title 33",
+        "author_name": "Author 33",
+        "year_of_publication": "2021",
+        "price": 12,
+        "discount": "10%",
+        "number_of_pages": 230,
+        "condition": "new",
+        "description": "This is a description for Book Title 33."
+    },
+    {
+        "book_name": "Book Title 34",
+        "author_name": "Author 34",
+        "year_of_publication": "2020",
+        "price": 22,
+        "discount": "15%",
+        "number_of_pages": 300,
+        "condition": "used",
+        "description": "This is a description for Book Title 34."
+    },
+    {
+        "book_name": "Book Title 35",
+        "author_name": "Author 35",
+        "year_of_publication": "2022",
+        "price": 19,
+        "discount": "20%",
+        "number_of_pages": 170,
+        "condition": "new",
+        "description": "This is a description for Book Title 35."
+    },
+    {
+        "book_name": "Book Title 36",
+        "author_name": "Author 36",
+        "year_of_publication": "2023",
+        "price": 27,
+        "discount": "25%",
+        "number_of_pages": 240,
+        "condition": "used",
+        "description": "This is a description for Book Title 36."
+    },
+    {
+        "book_name": "Book Title 37",
+        "author_name": "Author 37",
+        "year_of_publication": "2021",
+        "price": 11,
+        "discount": "10%",
+        "number_of_pages": 150,
+        "condition": "new",
+        "description": "This is a description for Book Title 37."
+    },
+    {
+        "book_name": "Book Title 38",
+        "author_name": "Author 38",
+        "year_of_publication": "2020",
+        "price": 29,
+        "discount": "15%",
+        "number_of_pages": 280,
+        "condition": "used",
+        "description": "This is a description for Book Title 38."
+    },
+    {
+        "book_name": "Book Title 39",
+        "author_name": "Author 39",
+        "year_of_publication": "2022",
+        "price": 16,
+        "discount": "20%",
+        "number_of_pages": 190,
+        "condition": "new",
+        "description": "This is a description for Book Title 39."
+    },
+    {
+        "book_name": "Book Title 40",
+        "author_name": "Author 40",
+        "year_of_publication": "2023",
+        "price": 28,
+        "discount": "25%",
+        "number_of_pages": 220,
+        "condition": "used",
+        "description": "This is a description for Book Title 40."
+    },
+    {
+        "book_name": "Book Title 41",
+        "author_name": "Author 41",
+        "year_of_publication": "2021",
+        "price": 10,
+        "discount": "10%",
+        "number_of_pages": 260,
+        "condition": "new",
+        "description": "This is a description for Book Title 41."
+    },
+    {
+        "book_name": "Book Title 42",
+        "author_name": "Author 42",
+        "year_of_publication": "2020",
+        "price": 26,
+        "discount": "15%",
+        "number_of_pages": 150,
+        "condition": "used",
+        "description": "This is a description for Book Title 42."
+    },
+    {
+        "book_name": "Book Title 43",
+        "author_name": "Author 43",
+        "year_of_publication": "2022",
+        "price": 15,
+        "discount": "20%",
+        "number_of_pages": 300,
+        "condition": "new",
+        "description": "This is a description for Book Title 43."
+    },
+    {
+        "book_name": "Book Title 44",
+        "author_name": "Author 44",
+        "year_of_publication": "2023",
+        "price": 21,
+        "discount": "25%",
+        "number_of_pages": 190,
+        "condition": "used",
+        "description": "This is a description for Book Title 44."
+    },
+    {
+        "book_name": "Book Title 45",
+        "author_name": "Author 45",
+        "year_of_publication": "2021",
+        "price": 18,
+        "discount": "10%",
+        "number_of_pages": 270,
+        "condition": "new",
+        "description": "This is a description for Book Title 45."
+    },
+    {
+        "book_name": "Book Title 46",
+        "author_name": "Author 46",
+        "year_of_publication": "2020",
+        "price": 23,
+        "discount": "15%",
+        "number_of_pages": 240,
+        "condition": "used",
+        "description": "This is a description for Book Title 46."
+    },
+    {
+        "book_name": "Book Title 47",
+        "author_name": "Author 47",
+        "year_of_publication": "2022",
+        "price": 14,
+        "discount": "20%",
+        "number_of_pages": 250,
+        "condition": "new",
+        "description": "This is a description for Book Title 47."
+    },
+    {
+        "book_name": "Book Title 48",
+        "author_name": "Author 48",
+        "year_of_publication": "2023",
+        "price": 26,
+        "discount": "25%",
+        "number_of_pages": 300,
+        "condition": "used",
+        "description": "This is a description for Book Title 48."
+    },
+    {
+        "book_name": "Book Title 49",
+        "author_name": "Author 49",
+        "year_of_publication": "2021",
+        "price": 20,
+        "discount": "10%",
+        "number_of_pages": 220,
+        "condition": "new",
+        "description": "This is a description for Book Title 49."
+    },
+    {
+        "book_name": "Book Title 50",
+        "author_name": "Author 50",
+        "year_of_publication": "2020",
+        "price": 25,
+        "discount": "15%",
+        "number_of_pages": 300,
+        "condition": "used",
+        "description": "This is a description for Book Title 50."
+    }
+]
